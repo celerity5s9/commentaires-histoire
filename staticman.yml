@@ -1,0 +1,13 @@
+# staticman.yml
+name: Staticman
+version: 1
+fields:
+  - name: name
+    label: Name
+    required: true
+  - name: email
+    label: Email
+    required: true
+  - name: message
+    label: Message
+    required: true
